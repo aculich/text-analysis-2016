@@ -1,0 +1,9 @@
+setuptools
+numpy
+matplotlib==2
+pandas
+IPython
+statsmodels
+sklearn
+nltk
+gensim
